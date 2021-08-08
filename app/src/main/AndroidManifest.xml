@@ -10,7 +10,8 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/layout_icon"
         android:supportsRtl="true"
-        android:theme="@style/AppTheme">
+        android:theme="@style/AppTheme"
+        android:screenOrientation="portrait">
         <activity android:name=".IndivDrillPage"></activity>
         <activity android:name=".AllDrillsPage" />
         <activity android:name=".MatchSummaryPage" />
